@@ -52,6 +52,7 @@ about_page_socials = true
   #github = "username"
   #stack_overflow = "userid/username" # include user id
   email = "stjohnsuccjackson@gmail.com"
+  youtube = "UC6BoIlAVSCF1yneEmoy0RQQ"
   # linkedin = "username" # Comment out to disable
   # mastodon_server = "example.social" # include subdomains if relevant, scheme not needed (defaults to https)
   # mastodon_user = "username" # don't include preceding @
