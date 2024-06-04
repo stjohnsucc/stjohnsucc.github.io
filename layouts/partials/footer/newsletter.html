@@ -1,0 +1,32 @@
+<!-- Reusable template for a newsletter opt-in -->
+<section class="section">
+  <div class="container--sm">
+    <h2 class="newsletter-header">
+      {{- with .Site.Params.newsletter_header -}}
+      {{- . -}}
+      {{- else -}}
+      Subscribe for Post Updates
+      {{- end -}}
+    </h2>
+    <p class="newsletter-desc">
+      {{- with .Site.Params.newsletter_description -}}
+      {{- . -}}
+      {{- else -}}
+      Enter your email below to get notified of new posts.
+      {{- end -}}
+    </p>
+    <form
+      action="https://stjohnsuccjackson.us6.list-manage.com/subscribe/post?u=c79c2c4d764de676332f03d30&amp;id=2402fb323e"
+      method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
+      novalidate>
+      <input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="email address" required>
+      <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn-primary">
+        {{- with .Site.Params.newsletter_submit -}}
+        {{- . -}}
+        {{- else -}}
+        Subscribe
+        {{- end -}}
+      </button>
+    </form>
+  </div>
+</section>
