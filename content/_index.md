@@ -1,14 +1,14 @@
 ---
-title: Jump-start your personal blog and portfolio with the Hugo Liftoff theme.
-subtitle: Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand.
-seo_title: Hugo Liftoff | Hugo theme for creators
+title: St. John's United Church of Christ
+subtitle: Love God, love people, serve both! We are an Open and Affirming, LGBT-friendly faith family in the heart of downtown Jackson, Michigan.
+seo_title: St. John's United Church of Christ
 
 primary_cta_page: "about"
 secondary_cta_page: "projects"
 
-posts_section_heading: Recent Posts
-projects_section_heading: My Projects
+posts_section_heading: News
+projects_section_heading: Our Programs
 ---
 
-{{< recent-posts 5 >}}
 {{< projects 5 >}}
+{{< recent-posts 5 >}}
