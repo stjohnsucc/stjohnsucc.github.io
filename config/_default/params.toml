@@ -9,7 +9,7 @@ avatar = 'avatar.jpg' # Custom avatar image in /assets/
 grayscale_avatar = false # Add a grayscale filter to the avatar image
 author = "St. John's United Church of Christ" # Default author for <head> meta
 description = "An LGBT-friendly church in downtown Jackson, Michigan." # Add a global meta description to <head>
-#footer_text = "Built with [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff) theme." # Customize footer text
+footer_text = "801 S. Mechanic St. Jackson, MI 49203 · 517.784.7580" # Customize footer text
 fallback_text = "No content available yet. Coming soon." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
