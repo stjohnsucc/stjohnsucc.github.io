@@ -9,7 +9,7 @@ favicon = true # Enable favicon, add your favicon files to /static/ directory
 grayscale_avatar = true # Add a grayscale filter to the avatar image
 author = "St. John's United Church of Christ" # Default author for <head> meta
 description = "An LGBT-friendly church in downtown Jackson, Michigan." # Add a global meta description to <head>
-footer_text = "Built with [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff) theme." # Customize footer text
+#footer_text = "Built with [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff) theme." # Customize footer text
 fallback_text = "No content available yet. Coming soon." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
@@ -30,8 +30,8 @@ images = ['images/default.png'] # Fallback for Open Graph and Twitter Cards imag
 ogLocale = "en_US" # Open graph locale
 
 # Twitter Cards
-twitterSite = "johndoestwitter" # Enter your twitter handle without the @
-twitterCreator = "johndoestwitter" # Enter your twitter handle without the @
+#twitterSite = "johndoestwitter" # Enter your twitter handle without the @
+#twitterCreator = "johndoestwitter" # Enter your twitter handle without the @
 
 # JSON-LD structured data schemas
 schemaName = "John Doe" # Enter your name

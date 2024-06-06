@@ -1,8 +1,8 @@
 ---
 title: Food Pantry
 seo_title: Food Pantry
-summary: Our monthly food pantry provides food, clothing, and more to families in need.
-description: Our monthly food pantry provides food, clothing, and more to families in need.
+summary: Get food, clothing, and more.
+description: Get food, clothing, and more.
 slug: food-pantry
 author: Evelyn Park
 
