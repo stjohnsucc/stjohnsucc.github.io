@@ -4,7 +4,7 @@ seo_title: Baby Sprinkles
 summary: Get diapers and kids' clothes.
 description: Get diapers and kids' clothes
 slug: baby-sprinkles
-author: Evelyn Park
+author: Donna Benedict
 
 draft: false
 date: 2024-06-06
