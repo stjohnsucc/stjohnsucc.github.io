@@ -12,8 +12,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image:
-feature_image_alt:
+feature_image: nhlLogo.png
+feature_image_alt: Logo
 
 project types: 
     - Outreach
@@ -29,7 +29,7 @@ source_url: /nhl-at-sjucc-apply
 
 The "NHL@SJUCC" is an outreach program that offers literacy coaching for students ages 5-12. Our purpose is to support students by increasing their confidence in reading which we believe will improve their academic success. The initiative was founded by the Hackworth family in 2022.
 
-<img src="/img/tutor.jpg">
+![tutor.jpg](tutor.jpg)
 
 #### Endorsements
 

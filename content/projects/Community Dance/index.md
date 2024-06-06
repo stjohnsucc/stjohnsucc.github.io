@@ -12,8 +12,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image:
-feature_image_alt:
+feature_image: dance.jpg
+feature_image_alt: A large group of people at a dance.
 
 project types: 
     - Outreach

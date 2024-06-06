@@ -12,8 +12,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image:
-feature_image_alt:
+feature_image: dinner.jpg
+feature_image_alt: A group of people enjoying a meal together.
 
 project types: 
     - Outreach
