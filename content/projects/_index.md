@@ -1,5 +1,5 @@
 ---
-title: Projects
-summary: Tell visitors about your projects by customizing this text.
-description: Explore some of the projects I've worked on.
+title: Programs
+summary: We offer a variety of programs, both for our members and the broader Jackson community.
+description: Explore our programs.
 ---
