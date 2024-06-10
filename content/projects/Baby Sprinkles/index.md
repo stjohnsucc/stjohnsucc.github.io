@@ -12,8 +12,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: baby.jpg
-feature_image_alt: A family with their baby.
+feature_image:
+feature_image_alt:
 
 project types: 
     - Outreach

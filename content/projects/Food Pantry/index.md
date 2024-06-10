@@ -12,8 +12,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: foodpantry.jpg
-feature_image_alt: A food pantry.
+feature_image: 
+feature_image_alt:
 
 project types: 
     - Outreach
