@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>St. John&#39;s United Church of Christ</title>
+    <title>Partnership Place</title>
     <link>http://localhost:1313/news/</link>
-    <description>Recent content in News on St. John&#39;s United Church of Christ</description>
+    <description>Recent content in News on Partnership Place</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Big Things Are Coming!</title>
-      <link>http://localhost:1313/posts/big-things-coming/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 -0400</pubDate>
-      
-      <guid>http://localhost:1313/posts/big-things-coming/</guid>
-      <description>We&#39;ve got a lot of big changes happening at St. John&#39;s.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

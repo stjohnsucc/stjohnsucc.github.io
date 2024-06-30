@@ -1,5 +1,5 @@
 ---
 title: News
-summary: What's going on at St. John's United Church of Christ?
+summary: What's going on at Partnership Place?
 description: Explore our most recent news.
 ---

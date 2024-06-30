@@ -7,11 +7,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/big-things-coming/</loc>
-    <lastmod>2024-06-06T00:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/projects/community-dance/</loc>
     <lastmod>2024-06-06T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,11 +33,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/projects/nhl-at-sjucc/</loc>
-    <lastmod>2024-06-06T00:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/news/</loc>
     <lastmod>2024-06-06T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -81,6 +71,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/nhl-at-sjucc-apply/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

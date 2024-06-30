@@ -1,7 +1,7 @@
 ---
 title: Love God, love people, serve both!
-subtitle: We are an LGBT+ friendly church in the heart of downtown Jackson.
-seo_title: St. John's United Church of Christ
+subtitle: We are an LGBT+ friendly community center in the heart of downtown Jackson.
+seo_title: Partnership Place
 
 #primary_cta_page: "about"
 #secondary_cta_page: "projects"

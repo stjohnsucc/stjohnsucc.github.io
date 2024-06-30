@@ -1,10 +1,13 @@
 ---
 type: about
 linktitle: About
-title: Welcome to St. John's United Church of Christ!
+title: Welcome to Partnership Place!
 seo_title: About
-description: Welcome to St. John's United Church of Christ!
+description: Welcome to Partnership Place!
+toc: true
 ---
+
+## St. John's United Church of Christ
 
 St. John’s United Church of Christ is more than just a place of worship. We are an enduring family. Some of our members have been attending our church since they were children. Some still remember when the sanctuary had a balcony with a lovely view of the little stained-glass window in what is now the attic, or when the back wall of the sanctuary was covered in decorative organ pipes before we hired a struggling, formerly-incarcerated person during the Great Depression to paint the now-iconic “Man with a Hoe” which adorns the sanctuary wall.
 
