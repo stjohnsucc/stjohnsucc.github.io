@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://stjohnsjx.com/</loc>
+    <lastmod>2024-07-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stjohnsjx.com/project-types/ministry/</loc>
+    <lastmod>2024-07-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stjohnsjx.com/projects/</loc>
+    <lastmod>2024-07-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stjohnsjx.com/project-types/</loc>
+    <lastmod>2024-07-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stjohnsjx.com/projects/worship/</loc>
+    <lastmod>2024-07-01T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://stjohnsjx.com/projects/baby-sprinkles/</loc>
     <lastmod>2024-06-06T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -27,27 +52,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://stjohnsjx.com/</loc>
-    <lastmod>2024-06-06T00:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://stjohnsjx.com/projects/nhl-at-sjucc/</loc>
     <lastmod>2024-06-06T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://stjohnsjx.com/project-types/outreach/</loc>
-    <lastmod>2024-06-06T00:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stjohnsjx.com/projects/</loc>
-    <lastmod>2024-06-06T00:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://stjohnsjx.com/project-types/</loc>
     <lastmod>2024-06-06T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -63,6 +73,14 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://stjohnsjx.com/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stjohnsjx.com/about-sjucc/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://stjohnsjx.com/about-wpc/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
